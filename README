@@ -7,4 +7,7 @@ Qt widget for using as a built-in console (or terminal emulation widget).
 Current maintainer: Petr Vanek <petr@yarpen.cz>
 License: GPLv2+
 
+Forked by: Paul Bruner
+Just wanted to add VT52 emulation and posably rom VT100/102 emulation for a terminal
+
 
